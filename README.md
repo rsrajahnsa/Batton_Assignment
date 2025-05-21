@@ -24,7 +24,7 @@ This project focuses on automating the rotation of PDF documents by 90 degrees c
 ### Clone the repository
 
 ```bash
-pip install pymupdf matplotlib
+pip install pymupdf 
 git clone https://github.com/rsrajahnsa/Batton_Assignment.git
 cd Batton_Assignment
 jupyter notebook
