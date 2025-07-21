@@ -29,5 +29,6 @@ git clone https://github.com/rsrajahnsa/Batton_Assignment.git
 cd Batton_Assignment
 jupyter notebook
 
-It is now ready for use
+It is now ready for use. Please submit a PR if you think there are any code changes required.
+
 
